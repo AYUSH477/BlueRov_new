@@ -1,0 +1,8 @@
+prefix=/home/ayush/bluerov_auto/devel
+
+Name: bluerov_ros_playground
+Description: Description of bluerov_ros_playground
+Version: 0.0.0
+Cflags: -I/home/ayush/bluerov_auto/devel/include
+Libs: -L/home/ayush/bluerov_auto/devel/lib 
+Requires: 

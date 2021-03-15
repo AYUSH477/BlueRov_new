@@ -1,0 +1,8 @@
+prefix=/home/ayush/bluerov_auto/devel
+
+Name: waterlinked_ros_driver
+Description: Description of waterlinked_ros_driver
+Version: 0.0.1
+Cflags: -I/home/ayush/bluerov_auto/devel/include
+Libs: -L/home/ayush/bluerov_auto/devel/lib 
+Requires: 

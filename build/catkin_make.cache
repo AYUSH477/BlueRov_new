@@ -1,0 +1,2 @@
+bluerov_heincke:bluerov_ros_playground:check_odometry:freefloating_gazebo:freefloating_gazebo_demo:pid:robot_localization:waterlinked_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/ayush/bluerov_auto/devel -DCMAKE_INSTALL_PREFIX=/home/ayush/bluerov_auto/install -G Unix Makefiles

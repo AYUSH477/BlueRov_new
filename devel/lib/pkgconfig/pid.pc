@@ -1,0 +1,8 @@
+prefix=/home/ayush/bluerov_auto/devel
+
+Name: pid
+Description: Description of pid
+Version: 0.0.27
+Cflags: -I/home/ayush/bluerov_auto/devel/include -I/home/ayush/bluerov_auto/src/pid/include
+Libs: -L/home/ayush/bluerov_auto/devel/lib 
+Requires: roscpp std_msgs message_runtime dynamic_reconfigure
