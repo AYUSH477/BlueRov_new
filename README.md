@@ -22,4 +22,7 @@ BlueRov_new/src/waterlinked_ros_driver/
 
 ## TODO
 
-1. Right now 
+1. You can implement an actual path-planning algorithm (A* for ex.) to automate the robot. Write a separate node for that.
+2. The incoming data from waterlinked is very noisy. Maybe, you can find ways to stabilize it. OR 
+3. You can use the new sonar to publish the localization data on topics and use those instead for automation.
+4. You can write a node for fault-detection.(For example: stop the robot when the battery charge is too low)
